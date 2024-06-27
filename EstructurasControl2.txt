@@ -1,0 +1,32 @@
+Algoritmo sin_titulo
+	//arrays
+	Dimension frutas[3]
+	frutas[1] = "Manzana"
+	frutas[2] = "Platano"
+	frutas[3] = "Sandía"
+	
+	Mostrar frutas[1]
+	Mostrar frutas[2]
+	Mostrar frutas[3]
+	
+	//For
+	Dimension frutas[3]
+	frutas[1] = "Manzana"
+	frutas[2] = "Platano"
+	frutas[3] = "Sandía"
+	
+	Para i Desde 1 Hasta 3 Hacer
+		Mostrar frutas(i)
+	FinPara
+	
+	//For of
+	Dimension frutas[3]
+	frutas[1] = "Manzana"
+	frutas[2] = "Platano"
+	frutas[3] = "Sandía"
+	
+	Para Cada elemento de frutas Hacer
+		Mostrar elemento
+	FinPara
+	
+FinAlgoritmo
