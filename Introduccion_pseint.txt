@@ -1,0 +1,23 @@
+Algoritmo sin_titulo
+	texto = "esto es un texto";
+	Mostrar texto; 
+	
+	numero = 2;
+	Mostrar numero;
+	
+	estado = Falso;
+	Mostrar estado
+	
+	Mostrar "Ingrese su nombre"
+	Leer nombre
+	
+	Mostrar "Ingrese el primer número"
+	Leer num1
+	
+	Mostrar "Ingrese el segundo número"
+	Leer num2
+	
+	resultado= num1 + num2 
+	
+	Mostrar nombre," tu resultado es: ",resultado
+FinAlgoritmo
