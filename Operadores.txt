@@ -1,0 +1,29 @@
+Algoritmo sin_titulo
+	//operadores aritmeticos
+
+	resultado = 20 +10
+	Mostrar resultado
+	
+	resultado = 2 * 6
+	Mostrar resultado
+	
+	resultado = 2 - 6
+	Mostrar resultado
+	
+	resultado = 4 / 2
+	Mostrar resultado
+	
+	resultado = 3 % 6
+	Mostrar resultado
+	
+	//operadores relacionales
+	relacion = 5>6
+	Mostrar relacion
+	
+	relacion = 6==7
+	Mostrar relacion
+	
+	//operadores logicos
+	logicos = 20 > 10 y 50 < 100
+	Mostrar logicos
+FinAlgoritmo
